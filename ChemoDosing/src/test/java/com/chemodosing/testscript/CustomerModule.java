@@ -47,6 +47,7 @@ public class CustomerModule extends BaseClass {
 	public void updateCustomer() throws InterruptedException {
 	Assert.fail();
 	Reporter.log("UpdateCustomer",true);	
+	
 	}
 	
 	
