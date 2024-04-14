@@ -22,9 +22,11 @@ public class CustomerModule extends BaseClass {
 	t.getCreatenewcustomerBtn().click();
 	t.getCustomernameTbx().sendKeys("Amrutha H S");
 	t.getCustomerdescTbx().sendKeys("Premium customer");
+	//Thread.sleep(2000);
 	driver.findElement(By.xpath("//button[contains(text(),'Select an active customer to import information from')]")).click();
 	//div[@class='x-layer x-menu at-dropdown-list-btn-menu customerSelectorMenu customerLightbox']
-	String option ="Architects Bureau";
+	String option ="Boston Chocolate";
+
 	t.getDropdownOptionsParent().findElement(By.xpath("//a[text()='"+option+"']")).click();
 	t.getCreatecustomerBtn().click();
 	Thread.sleep(2000);	
@@ -43,13 +45,13 @@ public class CustomerModule extends BaseClass {
 	Reporter.log("deleteCustomer",true);	
 	}
 	
-	@Test
-	public void updateCustomer() throws InterruptedException {
-	Assert.fail();
-	Reporter.log("UpdateCustomer",true);	
-	
-	}
-	
+//	@Test
+//	public void updateCustomer() throws InterruptedException {
+//	Assert.fail();
+//	Reporter.log("UpdateCustomer",true);	
+//	
+//	}
+//	
 	
 	
 //	@Test(dependsOnMethods = "deleteCustomer")

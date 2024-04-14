@@ -44,47 +44,47 @@
       <![CDATA[closeAppication]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-04-14T11:44:17 IST" name="Suite" finished-at="2024-04-14T11:44:43 IST" duration-ms="26095">
+  <suite started-at="2024-04-14T22:22:27 IST" name="Suite" finished-at="2024-04-14T22:22:52 IST" duration-ms="25408">
     <groups>
     </groups>
-    <test started-at="2024-04-14T11:44:17 IST" name="Test" finished-at="2024-04-14T11:44:43 IST" duration-ms="26095">
+    <test started-at="2024-04-14T22:22:27 IST" name="Test" finished-at="2024-04-14T22:22:52 IST" duration-ms="25408">
       <class name="com.chemodosing.testscript.CustomerModule">
-        <test-method is-config="true" signature="openApplication()[pri:0, instance:com.chemodosing.testscript.CustomerModule@4d5d943d]" started-at="2024-04-14T11:44:17 IST" name="openApplication" finished-at="2024-04-14T11:44:23 IST" duration-ms="5539" status="PASS">
+        <test-method is-config="true" signature="openApplication()[pri:0, instance:com.chemodosing.testscript.CustomerModule@4d5d943d]" started-at="2024-04-14T22:22:27 IST" name="openApplication" finished-at="2024-04-14T22:22:35 IST" duration-ms="7897" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[openApplication]]>
             </line>
           </reporter-output>
         </test-method> <!-- openApplication -->
-        <test-method is-config="true" signature="login()[pri:0, instance:com.chemodosing.testscript.CustomerModule@4d5d943d]" started-at="2024-04-14T11:44:23 IST" name="login" finished-at="2024-04-14T11:44:23 IST" duration-ms="215" status="PASS">
+        <test-method is-config="true" signature="login()[pri:0, instance:com.chemodosing.testscript.CustomerModule@4d5d943d]" started-at="2024-04-14T22:22:35 IST" name="login" finished-at="2024-04-14T22:22:35 IST" duration-ms="209" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[login]]>
             </line>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="createCustomer()[pri:0, instance:com.chemodosing.testscript.CustomerModule@4d5d943d]" started-at="2024-04-14T11:44:23 IST" name="createCustomer" finished-at="2024-04-14T11:44:27 IST" duration-ms="4035" status="PASS">
+        <test-method signature="createCustomer()[pri:0, instance:com.chemodosing.testscript.CustomerModule@4d5d943d]" started-at="2024-04-14T22:22:35 IST" name="createCustomer" finished-at="2024-04-14T22:22:39 IST" duration-ms="3844" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Method executed without any errors]]>
             </line>
           </reporter-output>
         </test-method> <!-- createCustomer -->
-        <test-method is-config="true" signature="logout()[pri:0, instance:com.chemodosing.testscript.CustomerModule@4d5d943d]" started-at="2024-04-14T11:44:27 IST" name="logout" finished-at="2024-04-14T11:44:27 IST" duration-ms="176" status="PASS">
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.chemodosing.testscript.CustomerModule@4d5d943d]" started-at="2024-04-14T22:22:39 IST" name="logout" finished-at="2024-04-14T22:22:39 IST" duration-ms="166" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[logout]]>
             </line>
           </reporter-output>
         </test-method> <!-- logout -->
-        <test-method is-config="true" signature="login()[pri:0, instance:com.chemodosing.testscript.CustomerModule@4d5d943d]" started-at="2024-04-14T11:44:27 IST" name="login" finished-at="2024-04-14T11:44:27 IST" duration-ms="253" status="PASS">
+        <test-method is-config="true" signature="login()[pri:0, instance:com.chemodosing.testscript.CustomerModule@4d5d943d]" started-at="2024-04-14T22:22:39 IST" name="login" finished-at="2024-04-14T22:22:39 IST" duration-ms="173" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[login]]>
             </line>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="deleteCustomer()[pri:0, instance:com.chemodosing.testscript.CustomerModule@4d5d943d]" started-at="2024-04-14T11:44:27 IST" name="deleteCustomer" finished-at="2024-04-14T11:44:31 IST" duration-ms="4106" status="PASS">
+        <test-method signature="deleteCustomer()[pri:0, instance:com.chemodosing.testscript.CustomerModule@4d5d943d]" started-at="2024-04-14T22:22:39 IST" name="deleteCustomer" finished-at="2024-04-14T22:22:43 IST" duration-ms="3856" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[deleteCustomer]]>
@@ -94,14 +94,14 @@
             </line>
           </reporter-output>
         </test-method> <!-- deleteCustomer -->
-        <test-method is-config="true" signature="logout()[pri:0, instance:com.chemodosing.testscript.CustomerModule@4d5d943d]" started-at="2024-04-14T11:44:31 IST" name="logout" finished-at="2024-04-14T11:44:32 IST" duration-ms="211" status="PASS">
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.chemodosing.testscript.CustomerModule@4d5d943d]" started-at="2024-04-14T22:22:43 IST" name="logout" finished-at="2024-04-14T22:22:43 IST" duration-ms="158" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[logout]]>
             </line>
           </reporter-output>
         </test-method> <!-- logout -->
-        <test-method is-config="true" signature="closeAppication()[pri:0, instance:com.chemodosing.testscript.CustomerModule@4d5d943d]" started-at="2024-04-14T11:44:32 IST" name="closeAppication" finished-at="2024-04-14T11:44:32 IST" duration-ms="603" status="PASS">
+        <test-method is-config="true" signature="closeAppication()[pri:0, instance:com.chemodosing.testscript.CustomerModule@4d5d943d]" started-at="2024-04-14T22:22:43 IST" name="closeAppication" finished-at="2024-04-14T22:22:44 IST" duration-ms="405" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[closeAppication]]>
@@ -110,35 +110,35 @@
         </test-method> <!-- closeAppication -->
       </class> <!-- com.chemodosing.testscript.CustomerModule -->
       <class name="com.chemodosing.testscript.ProjectModule">
-        <test-method is-config="true" signature="openApplication()[pri:0, instance:com.chemodosing.testscript.ProjectModule@55141def]" started-at="2024-04-14T11:44:32 IST" name="openApplication" finished-at="2024-04-14T11:44:37 IST" duration-ms="4676" status="PASS">
+        <test-method is-config="true" signature="openApplication()[pri:0, instance:com.chemodosing.testscript.ProjectModule@55141def]" started-at="2024-04-14T22:22:44 IST" name="openApplication" finished-at="2024-04-14T22:22:49 IST" duration-ms="5406" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[openApplication]]>
             </line>
           </reporter-output>
         </test-method> <!-- openApplication -->
-        <test-method is-config="true" signature="login()[pri:0, instance:com.chemodosing.testscript.ProjectModule@55141def]" started-at="2024-04-14T11:44:37 IST" name="login" finished-at="2024-04-14T11:44:37 IST" duration-ms="207" status="PASS">
+        <test-method is-config="true" signature="login()[pri:0, instance:com.chemodosing.testscript.ProjectModule@55141def]" started-at="2024-04-14T22:22:49 IST" name="login" finished-at="2024-04-14T22:22:49 IST" duration-ms="177" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[login]]>
             </line>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="CreateAndDeleteProject()[pri:0, instance:com.chemodosing.testscript.ProjectModule@55141def]" started-at="2024-04-14T11:44:37 IST" name="CreateAndDeleteProject" finished-at="2024-04-14T11:44:40 IST" duration-ms="3330" status="PASS">
+        <test-method signature="CreateAndDeleteProject()[pri:0, instance:com.chemodosing.testscript.ProjectModule@55141def]" started-at="2024-04-14T22:22:49 IST" name="CreateAndDeleteProject" finished-at="2024-04-14T22:22:52 IST" duration-ms="2626" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Method executed without any errors]]>
             </line>
           </reporter-output>
         </test-method> <!-- CreateAndDeleteProject -->
-        <test-method is-config="true" signature="logout()[pri:0, instance:com.chemodosing.testscript.ProjectModule@55141def]" started-at="2024-04-14T11:44:40 IST" name="logout" finished-at="2024-04-14T11:44:43 IST" duration-ms="2170" status="PASS">
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.chemodosing.testscript.ProjectModule@55141def]" started-at="2024-04-14T22:22:52 IST" name="logout" finished-at="2024-04-14T22:22:52 IST" duration-ms="186" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[logout]]>
             </line>
           </reporter-output>
         </test-method> <!-- logout -->
-        <test-method is-config="true" signature="closeAppication()[pri:0, instance:com.chemodosing.testscript.ProjectModule@55141def]" started-at="2024-04-14T11:44:43 IST" name="closeAppication" finished-at="2024-04-14T11:44:43 IST" duration-ms="514" status="PASS">
+        <test-method is-config="true" signature="closeAppication()[pri:0, instance:com.chemodosing.testscript.ProjectModule@55141def]" started-at="2024-04-14T22:22:52 IST" name="closeAppication" finished-at="2024-04-14T22:22:52 IST" duration-ms="260" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[closeAppication]]>

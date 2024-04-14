@@ -17,7 +17,7 @@ public class ProjectModule extends BaseClass{
 		t.getAddnewBtn().click();
 		t.getAddnewprojectBtn().click();
 		String projectname="Oncology";
-		String option ="Architects Bureau";
+		String option ="Boston Chocolate";
 		t.getProjectnameTbx().sendKeys(projectname);
 		driver.findElement(By.xpath("//button[contains(text(), 'Please Select Customer to Add Project for')]")).click();
 		t.getDropdownOptionsParent().findElement(By.xpath("//a[text()='"+option+"']")).click();
