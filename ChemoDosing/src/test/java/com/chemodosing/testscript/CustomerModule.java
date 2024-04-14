@@ -43,6 +43,14 @@ public class CustomerModule extends BaseClass {
 	Reporter.log("deleteCustomer",true);	
 	}
 	
+	@Test
+	public void updateCustomer() throws InterruptedException {
+	Assert.fail();
+	Reporter.log("UpdateCustomer",true);	
+	}
+	
+	
+	
 //	@Test(dependsOnMethods = "deleteCustomer")
 //	public void modifyCustomer() {
 //		Reporter.log("modifyCustomer",true);	
